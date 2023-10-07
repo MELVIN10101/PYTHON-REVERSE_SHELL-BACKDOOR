@@ -1,0 +1,7 @@
+step:1 download the backdoor in a usb-rubber ducky
+step:2 downalod the host.py file in your kali machine
+step:3 run the host.py
+step:4 run the backdoor.py in the victim using rubber ducky
+
+
+connection successfully established
